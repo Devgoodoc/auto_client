@@ -32,7 +32,7 @@ frame5.grid(row=0, column=4, padx=5, pady=5)
 #=====================================
 # 전역변수
 ID = 'dave.lee@goodoc.co.kr'
-PW = 'dlwlstjr1!'
+PW = ''
 
 # 구글스프레드 시트 인증 정보
 scope = ['https://spreadsheets.google.com/feeds']
